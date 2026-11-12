@@ -1,0 +1,12 @@
+name=Mordhau Combat for Viewpoint
+id=MordhauCombat
+description=Mordhau-style 240/360 directional melee combat for Project Viewpoint: procedural 3D weapon kinematics & IK, free-angle strikes, morph, chamber, parry, riposte, half-swording, 3D leg kick, and blade tracer.
+modversion=0.2.0
+poster=poster.png
+versionMin=42.21
+
+require=\ZombieBuddy,\Viewpoint
+loadModAfter=\ZombieBuddy,\Viewpoint,\ViewpointAdvancedMovement
+ZBVersionMin=2.3.0
+javaJarFile=media/java/MordhauCombat.jar
+javaPkgName=mordhau

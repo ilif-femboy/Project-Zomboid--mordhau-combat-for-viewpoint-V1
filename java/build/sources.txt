@@ -1,0 +1,8 @@
+"C:/Users/79872/Zomboid/mods/MordhauCombat/java/src/mordhau/AttackDirection.java"
+"C:/Users/79872/Zomboid/mods/MordhauCombat/java/src/mordhau/BladeTracer.java"
+"C:/Users/79872/Zomboid/mods/MordhauCombat/java/src/mordhau/CombatEngine.java"
+"C:/Users/79872/Zomboid/mods/MordhauCombat/java/src/mordhau/CombatPhase.java"
+"C:/Users/79872/Zomboid/mods/MordhauCombat/java/src/mordhau/Main.java"
+"C:/Users/79872/Zomboid/mods/MordhauCombat/java/src/mordhau/MordhauLua.java"
+"C:/Users/79872/Zomboid/mods/MordhauCombat/java/src/mordhau/MordhauPoseSolver.java"
+"C:/Users/79872/Zomboid/mods/MordhauCombat/java/src/mordhau/Patches.java"
